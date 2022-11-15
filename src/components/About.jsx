@@ -19,8 +19,7 @@ const About = () => {
               <div>
                 <p>
                     I am passionate about building excellent software that improves
-                    the lives of those around me. Enthusiastic about making smooth websites with the latest technologies. 
-                    Curious, problem solving and want to learn new stuff and people.
+                    the lives of those around me. Enthusiastic about making smooth websites with the latest technologies.
                     In search of a career in web development. What would you do if you had
                     a junior web dev available at your fingertips?
                 </p>  
